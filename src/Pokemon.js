@@ -1,6 +1,6 @@
 // Modulos a usar importados
 import React, { useState, useEffect } from "react";
-import { useLocation } from "react";
+import { useLocation } from "react-router";
 //Creación del componente, utilizando modulos.
 const Pokemon = () => {
     //Creamos el modulo de control de estado
